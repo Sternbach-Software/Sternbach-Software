@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/1dc3ae8a-a0b0-40d3-9cc8-d00842150ee5.svg)](https://wakatime.com/@1dc3ae8a-a0b0-40d3-9cc8-d00842150ee5)
 
-(Not included in the WakaTime stats are about 500 hours of Kotlin, 300 hours of Java, 50 hours of PHP/Laravel, 10-20 hours of Go) 
+(Not included in the WakaTime stats are about 500 hours of Kotlin (mostly Android), 300 hours of Java, 50 hours of PHP/Laravel, 10-20 hours of Go) 
 [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=@sternbachsoftware&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 [![Shmuel's github stats](https://github-readme-stats.vercel.app/api?username=shmueldabomb441&show_icons=true&include_all_commits=true&count_private=true&line_height=21&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 <!--
