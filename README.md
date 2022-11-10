@@ -2,7 +2,7 @@
 
 
 [![Shmuel's github stats](https://github-readme-stats.vercel.app/api?username=shmueldabomb441&show_icons=true&line_height=21&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shmueldabomb441&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=HTML,JavaScript,CSS,Typescript)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shmueldabomb441&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=HTML,JavaScript,CSS,Typescript,C,Shell,ANTLR)](https://github.com/anuraghazra/github-readme-stats)  
 [![This Week](https://github-readme-stats.vercel.app/api/wakatime?username=sternbachsoftware)](https://github.com/anuraghazra/github-readme-stats)  
  <!--
 --------------  
