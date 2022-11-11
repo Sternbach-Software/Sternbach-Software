@@ -7,7 +7,7 @@ I am passionate about and take pride in crafting intuitive, performant, and deli
 
 (Not included in the WakaTime stats are about 500 hours of Kotlin (mostly Android), 300 hours of Java, 50 hours of PHP/Laravel, 10-20 hours of Go) 
 [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=@sternbachsoftware&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-[![Shmuel's github stats](https://github-readme-stats.vercel.app/api?username=shmueldabomb441&show_icons=true&include_all_commits=true&count_private=true&line_height=21&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Shmuel's github stats](https://github-readme-stats.vercel.app/api?username=Sternbach-Software&show_icons=true&include_all_commits=true&count_private=true&line_height=21&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 <!--
 --------------  
     
