@@ -1,4 +1,4 @@
-# shmueldabomb441 
+# Sternbach-Software 
 
 I am passionate about and take pride in crafting intuitive, performant, and delightful Android apps. Programming has been my passion since I was 11 years old. Contact me at software.sternbach@gmail.com
 
