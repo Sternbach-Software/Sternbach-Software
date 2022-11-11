@@ -1,5 +1,8 @@
 # shmueldabomb441 
 
+I am passionate about and take pride in crafting intuitive, performant, and delightful Android apps. Programming has been my passion since I was 11 years old. 
+
+# Accomplishments
 [![wakatime](https://wakatime.com/badge/user/1dc3ae8a-a0b0-40d3-9cc8-d00842150ee5.svg)](https://wakatime.com/@1dc3ae8a-a0b0-40d3-9cc8-d00842150ee5)
 
 (Not included in the WakaTime stats are about 500 hours of Kotlin (mostly Android), 300 hours of Java, 50 hours of PHP/Laravel, 10-20 hours of Go) 
