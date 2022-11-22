@@ -1,6 +1,6 @@
 # Sternbach-Software 
 
-I am passionate about and take pride in crafting intuitive, performant, and delightful Android apps. Programming has been my passion since I was 11 years old. Contact me at software.sternbach@gmail.com
+I am passionate about and take pride in crafting intuitive, performant, and delightful Android apps. Programming has been my passion since I was 11 years old. Contact me at software@sternbach.org
 
 # Stats
 [![wakatime](https://wakatime.com/badge/user/1dc3ae8a-a0b0-40d3-9cc8-d00842150ee5.svg)](https://wakatime.com/@1dc3ae8a-a0b0-40d3-9cc8-d00842150ee5)
